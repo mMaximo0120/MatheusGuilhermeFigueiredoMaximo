@@ -1,0 +1,9 @@
+window.ENV = {
+  API_URL: "https://api.undg.org/",
+  MVP_URL: "https://uninfo.undg.org",
+  PORTAL_URL: "https://www.uninfo.org",
+  API_VERSION: "v0.1",
+  EXTERNAL_STORAGE: "https://minio.dev.devqube.io/uninfo-production-main/",
+  NODE_ENV: "production",
+  HOLDING_PAGE: false
+};
