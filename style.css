@@ -10,7 +10,7 @@ body{
     grid-template-columns: 1fr 1fr;
 }
 .introducao {
-    background-color: #fff;
+    background-color: #e7e7e7;
     justify-content: right;
     text-align: right;
     padding: 20px;
@@ -19,6 +19,13 @@ body{
     font-style: italic;
     font-weight: 700;
     font-size: 25px;
+}
+.Onu-sim{ 
+    background-image: url(./img/Emblem_of_the_United_Nations.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px;
+
 }
 
 img {
@@ -47,6 +54,6 @@ img {
     max-width: 100%;
 }
 
-.Onu img:hover {
+.introducao:hover {
     border: 2px solid #f7f7f7;
 }
