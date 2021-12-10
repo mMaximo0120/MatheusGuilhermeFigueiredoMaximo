@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(45deg, #f7f7f7, #c7c7c7) ;
+    background-image: linear-gradient(#f7f7f7, #c7c7c7) ;
     margin: 0px;
     padding: 20px;
     text-align: center;
@@ -10,10 +10,10 @@ body{
     grid-template-columns: 1fr 1fr;
 }
 .introducao {
-    background-color: #e7e7e7;
+    background-image: linear-gradient(#eaeaea, #c7c7c7) ;
     justify-content: right;
     text-align: right;
-    padding: 20px;
+    padding: 1.75rem;
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
@@ -21,7 +21,7 @@ body{
     font-size: 25px;
 }
 .Onu-sim{ 
-    background-image: url(./img/Emblem_of_the_United_Nations.svg);
+    background-image: url(./img/UN_emblem_blue.svg);
     background-repeat: no-repeat;
     background-position: center;
     padding: 20px;
@@ -33,27 +33,37 @@ img {
 }
 .menu {
     display: flex;
-    gap: 20px;
+    gap: 1.5rem;
     justify-content: center;
-    padding: 10px;
+    padding: 1rem;
+    margin-top: 0px;
 
 }
 
 .itens {
-    background-color:#c7c7c7;
+    \*background-color:#c7c7c7;
     text-decoration: none;
     color: black;
-    border-radius: 4px;
+    \*border-radius: 4px;
     padding: 10px;
 }
 
 .itens:hover {
-    border: 2px solid #f7f7f7;
+    border-bottom: 2px solid #418FDE;
 }
 .Onu {
     max-width: 100%;
 }
 
 .introducao:hover {
-    border: 2px solid #f7f7f7;
+    border: 2px solid #418FDE;
+}
+.linha1{
+    content: "";
+    padding: 0.5px;
+    background-color: #418FDE;
+    display: flex;
+    margin-bottom: 0px;
+    margin-top: 0px;
+
 }
