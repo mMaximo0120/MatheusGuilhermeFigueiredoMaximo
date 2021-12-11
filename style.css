@@ -65,16 +65,37 @@ img {
     display: flex;
     margin-bottom: 0px;
     margin-top: 0px;
-    
+    width: 100vw;
+    right: 100vw;
 
 }
+.linha2 {
+    padding: 0.5px;
+    background-color: #418FDE;
+    display: flex;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 100vw;
+    right: 100vw;
+}
 .imgonu{
-    max-width: 100%;
-    text-align: start;
-    
+    grid-column: 2;
+ 
 }
 .cont-img-onu {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1.5rem;
+    margin: 0rem;
+}
+.grid2c3 {
+    text-align: start;
+    justify-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.grid2c1 {
+    text-align: end;
+    justify-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }

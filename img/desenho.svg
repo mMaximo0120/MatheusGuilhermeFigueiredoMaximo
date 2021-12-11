@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 210 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="desenho.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.46324355"
+     inkscape:cx="396.11993"
+     inkscape:cy="388.56451"
+     inkscape:window-width="1366"
+     inkscape:window-height="728"
+     inkscape:window-x="1441"
+     inkscape:window-y="3"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-718.84434"
+       y="151.10842"
+       width="757.70078"
+       height="71.236826"
+       id="rect14781" />
+    <rect
+       x="-721.00303"
+       y="135.99758"
+       width="416.6275"
+       height="41.015142"
+       id="rect12003" />
+    <rect
+       x="-531.03816"
+       y="151.10842"
+       width="211.55179"
+       height="43.173834"
+       id="rect9247" />
+    <rect
+       x="-688.62265"
+       y="92.823743"
+       width="578.52938"
+       height="127.36281"
+       id="rect2145" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2143"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect2145)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="51.403862"
+       y="40.551922"
+       id="text4857"><tspan
+         sodipodi:role="line"
+         id="tspan4855"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';stroke-width:0.264583"
+         x="51.403862"
+         y="40.551922">BEM VIVER</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text9245"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect9247)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text12001"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12003);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-721.00391"
+         y="213.50688"
+         id="tspan33945">S</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,194.19231,1.1423077)"
+       id="text14779"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14781);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-718.84375"
+         y="187.60259"
+         id="tspan33947">Seu bem estar é nosso objetivo</tspan></text>
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000"
+       id="path33289"
+       sodipodi:cx="-410.15143"
+       sodipodi:cy="73.395515"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="145.06665"
+       sodipodi:argument="-17.916307"
+       sodipodi:t0="0"
+       d="m -410.15143,73.395515 c 4.32933,5.844606 -5.74247,8.719372 -9.71412,7.19563 -10.76291,-4.129246 -10.42883,-18.653176 -4.67714,-26.623868 10.28843,-14.257699 31.30039,-12.978036 43.53362,-2.158651 17.95275,15.877882 15.63152,44.12956 -0.35984,60.443364 -21.31397,21.74374 -57.02468,18.33117 -77.35311,-2.87833 -25.58127,-26.689984 -21.05505,-69.951556 5.39681,-94.262861 32.03675,-29.444247 82.8964,-23.7930065 111.17262,7.915308 33.32254,37.367152 26.53983,95.852443 -10.4338,128.082363 -42.68752,37.21071 -108.81597,29.29256 -144.99211,-12.95229 -41.10563,-48.001282 -32.04943,-121.784746 15.47077,-161.901858 53.31049,-45.005336 134.75736,-34.809287 178.81161,17.9892662 48.90858,58.6164018 37.57139,147.7328318 -20.50775,195.7213618"
+       transform="matrix(0.31910957,0,0,0.23623367,211.90269,31.651374)" />
+  </g>
+</svg>
