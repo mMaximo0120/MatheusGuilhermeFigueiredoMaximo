@@ -1,4 +1,4 @@
-
+@import url(./meta.css);
 body{
     background-image: linear-gradient(#f7f7f7, #c7c7c7) ;
     margin: 0px;
@@ -17,6 +17,8 @@ body{
     padding: 1.75rem;
     font-size: 1.3rem;
     font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+
 }
 .introducao h1 {
     font-size: 1.5rem;
@@ -59,24 +61,18 @@ img {
     border: 2px solid #418FDE;
 }
 .linha1{
-    content: "";
     padding: 0.5px;
     background-color: #418FDE;
     display: flex;
-    margin-bottom: 0px;
-    margin-top: 0px;
-    width: 100vw;
-    right: 100vw;
-
+    margin: 0px;
+    
 }
 .linha2 {
     padding: 0.5px;
     background-color: #418FDE;
     display: flex;
-    margin-bottom: 0px;
-    margin-top: 0px;
-    width: 100vw;
-    right: 100vw;
+    margin: 0px;
+
 }
 .imgonu img{
     grid-column: 2;
@@ -96,7 +92,33 @@ img {
     justify-content: center;   
 }
 .grid2c1 {
+    align-items: center;
     text-align: end;
     justify-items: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.grid2c1 p{
+    font-size: 20px;
+
+}
+.grid2c1 h1{
+    font-size: 40px;
+}
+.grid2c3 p{
+    font-size: 22px;
+
+}
+.grid2c3 h1{
+    font-size: 40px;
+}
+.bloco-3 {
+    display: grid;
+    grid-template-columns: 1fr  2fr;
+}
+.subtitulo{
+    font-size: 80px;
+    font-style: italic;
+    align-items: center;
+
 }
