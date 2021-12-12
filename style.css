@@ -1,7 +1,8 @@
+
 body{
     background-image: linear-gradient(#f7f7f7, #c7c7c7) ;
     margin: 0px;
-    padding: 20px;
+    padding: 0px;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -92,6 +93,8 @@ img {
     text-align: start;
     justify-items: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+
     
 }
 .grid2c1 {
