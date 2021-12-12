@@ -22,11 +22,10 @@ body{
     font-size: 1.5rem;
 }
 .Onu-sim{ 
-    background-image: url(./img/UN_emblem_blue.svg);
+    background-image: url(../img/UN_emblem_blue.svg);
     background-repeat: no-repeat;
     background-position: center;
     padding: 20px;
-
 }
 
 img {
