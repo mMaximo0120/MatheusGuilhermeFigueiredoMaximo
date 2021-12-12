@@ -79,9 +79,10 @@ img {
     width: 100vw;
     right: 100vw;
 }
-.imgonu{
+.imgonu img{
     grid-column: 2;
- 
+    object-fit: cover;
+    height: 100%;
 }
 .cont-img-onu {
     display: grid;
@@ -93,9 +94,7 @@ img {
     text-align: start;
     justify-items: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    justify-content: center;
-
-    
+    justify-content: center;   
 }
 .grid2c1 {
     text-align: end;
