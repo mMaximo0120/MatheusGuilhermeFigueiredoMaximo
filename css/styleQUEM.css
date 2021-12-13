@@ -1,0 +1,15 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.introducao{
+  padding: 0px 120px;
+}
+.projetos{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
