@@ -3,7 +3,8 @@ body{
   padding: 0px;
   text-align: center;
   font-size: 1.2rem;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: linear-gradient(#f7f7f7, #c7c7c7) ;
 }
 .introducao{
   padding: 0px 120px;
@@ -12,4 +13,55 @@ body{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 20px;
+  margin: 0px 20px;
+  text-align: start;
+  text-align: justify;
+}
+.projeto1{
+  border: #418FDE solid 0.5px;
+  padding: 10px;
+}
+.projeto1:hover{
+  border: 2px solid #418FDE;
+}
+.projeto2{
+  border: #418FDE solid 0.5px;
+  padding: 10px;
+}
+.projeto2:hover{
+  border: 2px solid #418FDE;
+}
+.projeto3{
+  border: #418FDE solid 0.5px;
+  padding: 10px;
+}
+.projeto3:hover{
+  border: 2px solid #418FDE;
+}
+.h1projeto{
+  text-align: center;
+  margin-top: 0px;
+}
+.menu {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  padding: 0.5rem;
+  margin-top: 0px;
+}
+
+.itens {
+  text-decoration: none;
+  color: black;
+  padding: 0.5rem
+}
+
+.itens:hover{
+  border-bottom: #418FDE solid;
+}
+.linha1{
+  padding: 0.5px;
+  background-color: #418FDE;
+  display: flex;
+  margin: 0px;
 }
