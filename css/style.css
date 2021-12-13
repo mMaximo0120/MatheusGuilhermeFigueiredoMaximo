@@ -134,12 +134,17 @@ img {
 .relato {
     max-width: 1100px;
     display: grid;
-    grid-template-columns: 70rem 25rem;
+    grid-template-columns: 2fr 1fr;
     padding: 0px;
+    margin: 0px;
 }
+
 .relato-1{
     text-align: left;
     margin: 0px 20px;
+    padding: 0px;
+}
+.relato-1 h1 {
     padding: 0px;
 }
 .subtitulo-2{
@@ -147,7 +152,36 @@ img {
     line-height: 1;
     max-width: 5ch;
     font-size: 3.60rem;
+    padding: 0px;   
+}
+
+.relato-3{
+    text-align: left;
+    margin: 0px 20px;
     padding: 0px;
 
-    
+}
+.p1{
+    text-indent: 20px;
+}
+.lista {
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+    list-style: none;
+    text-align:right;
+    margin-right: 10px;
+ 
+}
+.lista-menu{
+    border: #418FDE solid 1.9px;   
+}
+.lista-menu:hover{
+    border: 2px solid #418FDE;
+}
+article{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+
 }
