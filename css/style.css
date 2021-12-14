@@ -4,7 +4,7 @@ body{
     margin: 0px;
     padding: 0px;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .primeiro {
     display: grid;
@@ -14,11 +14,14 @@ body{
     background-image: linear-gradient(#eaeaea, #c7c7c7) ;
     justify-content: right;
     text-align: right;
-    padding: 1.75rem;
+    padding: 15px;
     font-size: 1.3rem;
     font-family: 'Times New Roman', Times, serif;
     margin: 0px;
-
+}
+.introducao h1 {
+    margin-top: 0px;
+    padding: 0px;
 }
 .introducao h1 {
     font-size: 1.5rem;
