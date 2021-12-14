@@ -1,10 +1,11 @@
-@import url(./meta.css);
+
 body{
     background-image: linear-gradient(#f7f7f7, #c7c7c7) ;
     margin: 0px;
     padding: 0px;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 .primeiro {
     display: grid;
@@ -168,10 +169,50 @@ img {
     margin-top: 0px;
     margin-bottom: 0px;
     padding: 0px;
+    
 }
 .menuh{
     margin-bottom: 0px;
 }
 .menuh2{
     margin-top: 0px;
+}
+.footer1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    position: relative;
+    margin-bottom: 20px;
+}
+.footer2{
+    text-align: right;
+    margin-top: 0px;
+    align-self: center;
+}
+.footer1::before{
+    content: "";
+    height: 2px;
+    width: 130px;
+    transform:rotate(90deg);
+    background-color: #418FDE;
+    position: absolute;
+    top: 60px;
+    right: 610px;
+
+
+}
+.footer3{
+    text-align: left;
+    margin-top: 0px;
+    align-self: center;
+    
+}
+.h3footer3{
+    margin: 0px;
+}
+.footer3 p {
+    margin: 9px;
+}
+.h1footer {
+    margin-bottom: 30px;
 }
